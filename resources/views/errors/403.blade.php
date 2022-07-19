@@ -1,0 +1,1 @@
+Usted no tiene privilegios para estar vista
