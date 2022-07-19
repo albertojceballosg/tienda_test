@@ -5,4 +5,4 @@
 <p><b>Nombre: {{ $product->name }}</b></p>
 <p><b>Descripcion: {{ $product->description }}</b></p>
 <p><b>Precio: {{ $product->price }}</b></p>
-<p><b>Impuesto: {{ $product->tax }}</b></p>
+<p><b>Impuesto: {{ $product->tax }} %</b></p>

@@ -1,7 +1,7 @@
 <p><a href="{{ route('products.index') }}">Regresar</a></p>
 <form method="POST" action="{{ route('products.store') }}">
 	@csrf
-	<label>Imagen</label>
+	<label>Imagen (url de una imagen de internet)</label>
 	<br>
 	<input type="text" name="image" id="image">
 	<br><br>
